@@ -1,4 +1,4 @@
 CSS Variables
 =============
 
-Playing around with CSS Variables + Firefox Nightly
+Playing around with CSS Variables + Firefox Nightly + Chrome Canary
