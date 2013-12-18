@@ -1,0 +1,12 @@
+:root {
+  var-wowblue: #08c;
+  var-manydark: #000;
+}
+
+p {
+  color: var(wowblue);
+}
+
+span {
+  color: var(manydark);
+}
