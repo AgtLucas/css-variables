@@ -1,4 +1,4 @@
-css-variables
+CSS Variables
 =============
 
 Playing around with CSS Variables + Firefox Nightly
